@@ -1,1 +1,2 @@
-# pymatgen_howtos refactoring Ceria_Research to pymatgen_howtos:
+# pymatgen_howtos 
+Repo created from refactoring Ceria_Research to pymatgen_howtos
